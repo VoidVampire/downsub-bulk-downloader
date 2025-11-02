@@ -64,9 +64,6 @@ This repository contains **two Tampermonkey scripts**:
 
 [![](https://img.youtube.com/vi/1GGGMn_MgOs/0.jpg)](https://www.youtube.com/watch?v=1GGGMn_MgOs) 
 
-💡 **Workaround:**
-If the show/playlist has **less than 30 episodes**, I recommend using the **Downsub All SRT Downloader** (single-episode script) — it’s more reliable and faster for my setup.
-
 ---
 
 ### ▶️ Video 2 — “Downsub All SRT Downloader”
@@ -91,4 +88,5 @@ If you experience issues like incomplete downloads or browser lag — it’s pro
 * or Downsub’s dynamic page loading behavior.
 
 ---
+
 
